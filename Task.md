@@ -1,6 +1,7 @@
 ---
 
 kanban-plugin: basic
+dg-publish: true
 
 ---
 

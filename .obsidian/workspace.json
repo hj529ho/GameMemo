@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa09dab5759a93f",
+        "id": "4879be85e37934d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ea03abba032b06e6",
+            "id": "d1ed60423bea3d25",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -16,21 +16,8 @@
                 "file": "Task.md"
               }
             }
-          },
-          {
-            "id": "d58bc72a87733e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Task.md"
               }
             }
           }
@@ -159,14 +146,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0a8c9b8a59e01a7c",
+  "active": "d1ed60423bea3d25",
   "lastOpenFiles": [
-    "Task.md",
-    "index.md",
-    "11.jpg",
     "Kanban/KanbanCardTemplete.md",
-    "Kanban/태그 연습.md",
+    "index.md",
+    "Task.md",
+    "11.jpg",
     "Kanban/무슨 작업 1.md",
+    "Kanban/태그 연습.md",
     "Kanban/게임개발연습.md",
     "Kanban/무슨 작업.md",
     "Ce12EDtUsAA53L- - 복사본.jpg",

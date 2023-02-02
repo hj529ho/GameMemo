@@ -1,2 +1,8 @@
 
+---
+
+dg-publish: true
+
+---
+
 [[Task]]
