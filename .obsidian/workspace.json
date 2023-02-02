@@ -16,8 +16,21 @@
                 "file": "Task.md"
               }
             }
+          },
+          {
+            "id": "d58bc72a87733e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index_org.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "index_org.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "index_org.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "index_org.md"
               }
             }
           }
@@ -145,10 +158,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ea03abba032b06e6",
+  "active": "0a8c9b8a59e01a7c",
   "lastOpenFiles": [
-    "11.jpg",
     "Task.md",
+    "11.jpg",
     "Kanban/KanbanCardTemplete.md",
     "Kanban/태그 연습.md",
     "Kanban/무슨 작업 1.md",
