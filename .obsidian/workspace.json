@@ -11,9 +11,11 @@
             "id": "d1ed60423bea3d25",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task.md"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,9 +150,9 @@
   },
   "active": "d1ed60423bea3d25",
   "lastOpenFiles": [
-    "Kanban/KanbanCardTemplete.md",
-    "index.md",
     "Task.md",
+    "index.md",
+    "Kanban/KanbanCardTemplete.md",
     "11.jpg",
     "Kanban/무슨 작업 1.md",
     "Kanban/태그 연습.md",
