@@ -155,10 +155,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d58bc72a87733e37",
+  "active": "0a8c9b8a59e01a7c",
   "lastOpenFiles": [
     "Task.md",
     "index.md",
