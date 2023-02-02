@@ -1,0 +1,12 @@
+{
+  "new-note-template": "Kanban/KanbanCardTemplete.md",
+  "new-note-folder": "Kanban",
+  "hide-card-count": false,
+  "date-colors": [],
+  "show-checkboxes": false,
+  "show-relative-date": true,
+  "hide-date-display": false,
+  "hide-tags-display": true,
+  "hide-date-in-title": true,
+  "new-card-insertion-method": "prepend-compact"
+}

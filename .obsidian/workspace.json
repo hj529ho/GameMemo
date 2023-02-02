@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "4a8b3e924612c3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa09dab5759a93f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea03abba032b06e6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d6bbc87ffa81d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d31b4264a9da325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a8c9b8a59e01a7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d7e19c4005d29fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb27428982bbb0c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd544919281d4b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d34c05bcc63cbbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44147fa59156ed27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a211dbbc2efaa763",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3ac378a10f51cbd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6af7ac4186205f1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ea03abba032b06e6",
+  "lastOpenFiles": [
+    "11.jpg",
+    "Task.md",
+    "Kanban/KanbanCardTemplete.md",
+    "Kanban/태그 연습.md",
+    "Kanban/무슨 작업 1.md",
+    "Kanban/게임개발연습.md",
+    "Kanban/무슨 작업.md",
+    "Ce12EDtUsAA53L- - 복사본.jpg",
+    "게임개발연습.md",
+    "Kanban/ToDoList.md"
+  ]
+}
